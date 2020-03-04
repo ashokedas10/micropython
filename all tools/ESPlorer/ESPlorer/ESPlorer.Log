@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-04T15:56:11</date>
+  <millis>1583317571932</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:11</date>
+  <millis>1583317571947</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:11</date>
+  <millis>1583317571963</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572181</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572213</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572228</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572228</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572979</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572985</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>found COM1</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572988</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:12</date>
+  <millis>1583317572998</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:36</date>
+  <millis>1583317596826</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open file script1.py</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:36</date>
+  <millis>1583317596828</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>File name: D:\web_app\xampp\htdocs\PYTHON\micropython\python code\script1.py</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:36</date>
+  <millis>1583317596839</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to load file script1.py</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:36</date>
+  <millis>1583317596890</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Loading script1.py: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:36</date>
+  <millis>1583317596891</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open "script1.py": Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:41</date>
+  <millis>1583317601688</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:41</date>
+  <millis>1583317601690</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:41</date>
+  <millis>1583317601691</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:41</date>
+  <millis>1583317601772</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615751</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615753</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615813</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import machine&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615901</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import time&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615908</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615966</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615973</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:while True:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:55</date>
+  <millis>1583317615994</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.on()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616007</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(10)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616027</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.off()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616035</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(10)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616041</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616046</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616050</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:56:56</date>
+  <millis>1583317616058</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Operation done. Duration = 322 ms</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:06</date>
+  <millis>1583317626187</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>We save known file script1.py</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:06</date>
+  <millis>1583317626188</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to saving file script1.py ...</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:06</date>
+  <millis>1583317626193</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Save file script1.py: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627228</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627244</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627275</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import machine&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627291</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import time&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627306</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627306</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627322</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:while True:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627322</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.on()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627338</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(1)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627353</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.off()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627353</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(1)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627369</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627369</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627384</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:07</date>
+  <millis>1583317627384</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Operation done. Duration = 156 ms</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641557</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641559</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641597</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import machine&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641604</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:import time&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641630</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641660</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641666</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:while True:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641677</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.on()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641697</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(1)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641734</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:pin1.off()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641744</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:time.sleep(1)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641822</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641906</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641919</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:21</date>
+  <millis>1583317641925</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Operation done. Duration = 374 ms</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:31</date>
+  <millis>1583317651475</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2020-03-04T15:57:31</date>
+  <millis>1583317651476</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>File close: Success.</message>
+</record>
+</log>

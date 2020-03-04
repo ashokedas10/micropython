@@ -1,0 +1,31 @@
+STEPS
+
+install python
+
+install pip if not available : python -m pip install --upgrade pip
+(https://datatofish.com/upgrade-pip/)
+
+python -m pip install esptool
+
+ DOC : https://github.com/espressif/esptool/
+
+
+
+
+FOR FLASING and Getting the firmware for 8266 nodemcu
+
+https://github.com/nodemcu/nodemcu-flasher
+https://www.youtube.com/watch?v=kt7ntS4AHyE
+
+program with : ESPlorer
+link :https://esp8266.ru/esplorer/
+
+
+complete tutorial
+https://maker.pro/esp8266/tutorial/how-to-program-an-esp8266-with-micropython
+
+connect with putty
+
+
+
+
